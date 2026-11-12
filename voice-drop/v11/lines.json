@@ -1,0 +1,666 @@
+{
+ "videos": {
+  "p": {
+   "id": "p-2k14-gta5-part2",
+   "ed": 14,
+   "stamp": "2013",
+   "season": "2013-14",
+   "hook_clip": "o00",
+   "hook_from": "v10",
+   "title": "Their 2K rating when GTA 5 came out, part 2 (NBA 2K14)",
+   "players": [
+    [
+     "LeBron James",
+     "MIA",
+     6,
+     99,
+     "LeBron James",
+     "Ninety-nine. The highest in the game.",
+     "99. THE HIGHEST IN THE GAME."
+    ],
+    [
+     "John Wall",
+     "WAS",
+     2,
+     85,
+     "John Wall",
+     "Eighty-five. Before his first All-Star game.",
+     "85. BEFORE HIS FIRST ALL-STAR GAME."
+    ],
+    [
+     "Manu Ginobili",
+     "SAS",
+     20,
+     86,
+     "Manu Ginobili",
+     "Eighty-six. At thirty-six years old.",
+     "86. AT 36 YEARS OLD."
+    ],
+    [
+     "Josh Smith",
+     "DET",
+     6,
+     86,
+     "Josh Smith",
+     "Eighty-six. Just signed with the Pistons.",
+     "86. JUST SIGNED WITH THE PISTONS."
+    ],
+    [
+     "Jrue Holiday",
+     "NOP",
+     11,
+     88,
+     "Drew Holiday",
+     "Eighty-eight. An All-Star the year before.",
+     "88. AN ALL-STAR THE YEAR BEFORE."
+    ]
+   ]
+  },
+  "q": {
+   "id": "q-guess-overall-2k10",
+   "ed": 10,
+   "stamp": "2009",
+   "season": "2009-10",
+   "hook": "Guess the overall. Two K ten edition.",
+   "title": "Guess the Overall, 2K10 edition",
+   "players": [
+    [
+     "Kevin Durant",
+     "OKC",
+     35,
+     82,
+     "Kevin Durant",
+     "Eighty-two. Then he won the scoring title.",
+     "82. THEN HE WON THE SCORING TITLE."
+    ],
+    [
+     "Paul Pierce",
+     "BOS",
+     34,
+     84,
+     "Paul Pierce",
+     "Eighty-four. The Truth.",
+     "84. THE TRUTH."
+    ],
+    [
+     "Vince Carter",
+     "ORL",
+     15,
+     81,
+     "Vince Carter",
+     "Eighty-one. First year in Orlando.",
+     "81. FIRST YEAR IN ORLANDO."
+    ],
+    [
+     "Russell Westbrook",
+     "OKC",
+     0,
+     77,
+     "Russell Westbrook",
+     "Seventy-seven. In his second year.",
+     "77. IN HIS SECOND YEAR."
+    ],
+    [
+     "James Harden",
+     "OKC",
+     13,
+     76,
+     "James Harden",
+     "Seventy-six. A rookie off the bench.",
+     "76. A ROOKIE OFF THE BENCH."
+    ]
+   ]
+  },
+  "r": {
+   "id": "r-guess-overall-2k12",
+   "ed": 12,
+   "stamp": "2011",
+   "season": "2011-12",
+   "hook": "Guess the overall. Two K twelve edition.",
+   "title": "Guess the Overall, 2K12 edition",
+   "players": [
+    [
+     "Dwight Howard",
+     "ORL",
+     12,
+     93,
+     "Dwight Howard",
+     "Ninety-three. The best center in the game.",
+     "93. THE BEST CENTER IN THE GAME."
+    ],
+    [
+     "Carmelo Anthony",
+     "NYK",
+     7,
+     91,
+     "Carmelo Anthony",
+     "Ninety-one. First full year in New York.",
+     "91. FIRST FULL YEAR IN NEW YORK."
+    ],
+    [
+     "Steve Nash",
+     "PHX",
+     13,
+     84,
+     "Steve Nash",
+     "Eighty-four. At thirty-seven years old.",
+     "84. AT 37 YEARS OLD."
+    ],
+    [
+     "Dirk Nowitzki",
+     "DAL",
+     41,
+     85,
+     "Dirk Nowitzki",
+     "Eighty-five. Right after the title.",
+     "85. RIGHT AFTER THE TITLE."
+    ],
+    [
+     "Blake Griffin",
+     "LAC",
+     32,
+     85,
+     "Blake Griffin",
+     "Eighty-five. Same as Dirk.",
+     "85. SAME AS DIRK."
+    ]
+   ]
+  },
+  "s": {
+   "id": "s-guess-overall-2k16",
+   "ed": 16,
+   "stamp": "2015",
+   "season": "2015-16",
+   "hook": "Guess the overall. Two K sixteen edition.",
+   "title": "Guess the Overall, 2K16 edition",
+   "players": [
+    [
+     "Anthony Davis",
+     "NOP",
+     23,
+     92,
+     "Anthony Davis",
+     "Ninety-two. On the cover at twenty-two.",
+     "92. ON THE COVER AT 22."
+    ],
+    [
+     "Jimmy Butler",
+     "CHI",
+     21,
+     86,
+     "Jimmy Butler",
+     "Eighty-six. The reigning Most Improved Player.",
+     "86. THE REIGNING MOST IMPROVED PLAYER."
+    ],
+    [
+     "Tim Duncan",
+     "SAS",
+     21,
+     87,
+     "Tim Duncan",
+     "Eighty-seven. In his last season.",
+     "87. IN HIS LAST SEASON."
+    ],
+    [
+     "Hassan Whiteside",
+     "MIA",
+     21,
+     81,
+     "Hassan Whiteside",
+     "Eighty-one. He just wanted his two K rating up.",
+     "81. HE JUST WANTED HIS 2K RATING UP."
+    ],
+    [
+     "Karl-Anthony Towns",
+     "MIN",
+     32,
+     78,
+     "Karl-Anthony Towns",
+     "Seventy-eight. The number one pick.",
+     "78. THE NUMBER ONE PICK."
+    ]
+   ]
+  },
+  "t": {
+   "id": "t-guess-overall-2k17",
+   "ed": 17,
+   "stamp": "2016",
+   "season": "2016-17",
+   "hook": "Guess the overall. Two K seventeen edition.",
+   "title": "Guess the Overall, 2K17 edition",
+   "players": [
+    [
+     "Kyrie Irving",
+     "CLE",
+     2,
+     89,
+     "Kyrie Irving",
+     "Eighty-nine. Right after the shot.",
+     "89. RIGHT AFTER THE SHOT."
+    ],
+    [
+     "Draymond Green",
+     "GSW",
+     23,
+     90,
+     "Draymond Green",
+     "Ninety. After seventy-three wins.",
+     "90. AFTER 73 WINS."
+    ],
+    [
+     "Mike Conley",
+     "MEM",
+     11,
+     85,
+     "Mike Conley",
+     "Eighty-five. Just signed the biggest contract ever.",
+     "85. JUST SIGNED THE BIGGEST CONTRACT EVER."
+    ],
+    [
+     "Isaiah Thomas",
+     "BOS",
+     4,
+     85,
+     "Isaiah Thomas",
+     "Eighty-five. Then he finished fifth for M V P.",
+     "85. THEN HE FINISHED FIFTH FOR MVP."
+    ],
+    [
+     "Joel Embiid",
+     "PHI",
+     21,
+     77,
+     "Joel Em-beed",
+     "Seventy-seven. Before he played a game.",
+     "77. BEFORE HE PLAYED A GAME."
+    ]
+   ]
+  },
+  "u": {
+   "id": "u-guess-overall-2k18",
+   "ed": 18,
+   "stamp": "2017",
+   "season": "2017-18",
+   "hook": "Guess the overall. Two K eighteen edition.",
+   "title": "Guess the Overall, 2K18 edition",
+   "players": [
+    [
+     "Giannis Antetokounmpo",
+     "MIL",
+     34,
+     91,
+     "Yahnis",
+     "Ninety-one. His first time in the nineties.",
+     "91. HIS FIRST TIME IN THE 90S."
+    ],
+    [
+     "Nikola Jokic",
+     "DEN",
+     15,
+     88,
+     "Nikola Yokitch",
+     "Eighty-eight. The forty-first pick.",
+     "88. THE 41ST PICK."
+    ],
+    [
+     "Lonzo Ball",
+     "LAL",
+     2,
+     80,
+     "Lonzo Ball",
+     "Eighty. The number two pick.",
+     "80. THE NUMBER TWO PICK."
+    ],
+    [
+     "Markelle Fultz",
+     "PHI",
+     20,
+     80,
+     "Markelle Fultz",
+     "Eighty. Same as Lonzo.",
+     "80. SAME AS LONZO."
+    ],
+    [
+     "Jayson Tatum",
+     "BOS",
+     0,
+     77,
+     "Jayson Tatum",
+     "Seventy-seven. He's a ninety-three now.",
+     "77. HE'S A 93 NOW."
+    ]
+   ]
+  },
+  "v": {
+   "id": "v-guess-overall-2k19",
+   "ed": 19,
+   "stamp": "2018",
+   "season": "2018-19",
+   "hook": "Guess the overall. Two K nineteen edition.",
+   "title": "Guess the Overall, 2K19 edition",
+   "players": [
+    [
+     "DeMarcus Cousins",
+     "GSW",
+     0,
+     90,
+     "DeMarcus Cousins",
+     "Ninety. On the Warriors.",
+     "90. ON THE WARRIORS."
+    ],
+    [
+     "Victor Oladipo",
+     "IND",
+     4,
+     88,
+     "Victor Oladipo",
+     "Eighty-eight. The Most Improved Player.",
+     "88. THE MOST IMPROVED PLAYER."
+    ],
+    [
+     "Trae Young",
+     "ATL",
+     11,
+     77,
+     "Tray Young",
+     "Seventy-seven. Two below Luka.",
+     "77. TWO BELOW LUKA."
+    ],
+    [
+     "Ben Simmons",
+     "PHI",
+     25,
+     87,
+     "Ben Simmons",
+     "Eighty-seven. Rookie of the Year.",
+     "87. ROOKIE OF THE YEAR."
+    ],
+    [
+     "Donovan Mitchell",
+     "UTA",
+     45,
+     87,
+     "Donovan Mitchell",
+     "Eighty-seven. Same as Simmons.",
+     "87. SAME AS SIMMONS."
+    ]
+   ]
+  },
+  "w": {
+   "id": "w-guess-overall-2k20-part2",
+   "ed": 20,
+   "stamp": "2019",
+   "season": "2019-20",
+   "hook_clip": "n00",
+   "hook_from": "v9",
+   "title": "Guess the Overall, 2K20 edition, part 2",
+   "players": [
+    [
+     "Paul George",
+     "LAC",
+     13,
+     93,
+     "Paul George",
+     "Ninety-three. First year with Kawhi.",
+     "93. FIRST YEAR WITH KAWHI."
+    ],
+    [
+     "Kemba Walker",
+     "BOS",
+     8,
+     88,
+     "Kemba Walker",
+     "Eighty-eight. First year in Boston.",
+     "88. FIRST YEAR IN BOSTON."
+    ],
+    [
+     "Pascal Siakam",
+     "TOR",
+     43,
+     87,
+     "Pascal See-ah-kam",
+     "Eighty-seven. Most Improved, with a ring.",
+     "87. MOST IMPROVED, WITH A RING."
+    ],
+    [
+     "Chris Paul",
+     "OKC",
+     3,
+     85,
+     "Chris Paul",
+     "Eighty-five. Then he made All-N B A.",
+     "85. THEN HE MADE ALL-NBA."
+    ],
+    [
+     "Ja Morant",
+     "MEM",
+     12,
+     79,
+     "Jah Morant",
+     "Seventy-nine. Two below Zion.",
+     "79. TWO BELOW ZION."
+    ]
+   ]
+  },
+  "x": {
+   "id": "x-guess-overall-2k21",
+   "ed": 21,
+   "stamp": "2020",
+   "season": "2020-21",
+   "hook": "Guess the overall. Two K twenty-one edition.",
+   "title": "Guess the Overall, 2K21 edition",
+   "players": [
+    [
+     "Damian Lillard",
+     "POR",
+     0,
+     94,
+     "Damian Lillard",
+     "Ninety-four. The bubble M V P.",
+     "94. THE BUBBLE MVP."
+    ],
+    [
+     "Devin Booker",
+     "PHX",
+     1,
+     87,
+     "Devin Booker",
+     "Eighty-seven. Eight and oh in the bubble.",
+     "87. 8 AND 0 IN THE BUBBLE."
+    ],
+    [
+     "Jamal Murray",
+     "DEN",
+     27,
+     85,
+     "Jamal Murray",
+     "Eighty-five. Two fifty-point games in the bubble.",
+     "85. TWO 50-POINT GAMES IN THE BUBBLE."
+    ],
+    [
+     "TJ Warren",
+     "IND",
+     1,
+     85,
+     "T J Warren",
+     "Eighty-five. Fifty-three in his first bubble game.",
+     "85. 53 IN HIS FIRST BUBBLE GAME."
+    ],
+    [
+     "Tyler Herro",
+     "MIA",
+     14,
+     78,
+     "Tyler Hero",
+     "Seventy-eight. The Heat's bubble rookie.",
+     "78. THE HEAT'S BUBBLE ROOKIE."
+    ]
+   ]
+  },
+  "y": {
+   "id": "y-guess-overall-2k22",
+   "ed": 22,
+   "stamp": "2021",
+   "season": "2021-22",
+   "hook": "Guess the overall. Two K twenty-two edition.",
+   "title": "Guess the Overall, 2K22 edition",
+   "players": [
+    [
+     "Klay Thompson",
+     "GSW",
+     11,
+     87,
+     "Klay Thompson",
+     "Eighty-seven. After two years out.",
+     "87. AFTER TWO YEARS OUT."
+    ],
+    [
+     "LaMelo Ball",
+     "CHA",
+     2,
+     84,
+     "LaMelo Ball",
+     "Eighty-four. The reigning Rookie of the Year.",
+     "84. THE REIGNING ROOKIE OF THE YEAR."
+    ],
+    [
+     "Cade Cunningham",
+     "DET",
+     2,
+     80,
+     "Cade Cunningham",
+     "Eighty. The top rookie in the game.",
+     "80. THE TOP ROOKIE IN THE GAME."
+    ],
+    [
+     "Anthony Edwards",
+     "MIN",
+     1,
+     81,
+     "Anthony Edwards",
+     "Eighty-one. After his rookie year.",
+     "81. AFTER HIS ROOKIE YEAR."
+    ],
+    [
+     "Shai Gilgeous-Alexander",
+     "OKC",
+     2,
+     86,
+     "Shay Gil-jus Alexander",
+     "Eighty-six. He's a ninety-seven now.",
+     "86. HE'S A 97 NOW."
+    ]
+   ]
+  }
+ },
+ "clips": {
+  "p01": "First up. LeBron James.",
+  "p02": "Ninety-nine. The highest in the game.",
+  "p03": "Next. John Wall.",
+  "p04": "Eighty-five. Before his first All-Star game.",
+  "p05": "Number three. Manu Ginobili.",
+  "p06": "Eighty-six. At thirty-six years old.",
+  "p07": "Number four. Josh Smith.",
+  "p08": "Eighty-six. Just signed with the Pistons.",
+  "p09": "Last one. Drew Holiday.",
+  "p10": "Eighty-eight. An All-Star the year before.",
+  "q00": "Guess the overall. Two K ten edition.",
+  "q01": "First up. Kevin Durant.",
+  "q02": "Eighty-two. Then he won the scoring title.",
+  "q03": "Next. Paul Pierce.",
+  "q04": "Eighty-four. The Truth.",
+  "q05": "Number three. Vince Carter.",
+  "q06": "Eighty-one. First year in Orlando.",
+  "q07": "Number four. Russell Westbrook.",
+  "q08": "Seventy-seven. In his second year.",
+  "q09": "Last one. James Harden.",
+  "q10": "Seventy-six. A rookie off the bench.",
+  "r00": "Guess the overall. Two K twelve edition.",
+  "r01": "First up. Dwight Howard.",
+  "r02": "Ninety-three. The best center in the game.",
+  "r03": "Next. Carmelo Anthony.",
+  "r04": "Ninety-one. First full year in New York.",
+  "r05": "Number three. Steve Nash.",
+  "r06": "Eighty-four. At thirty-seven years old.",
+  "r07": "Number four. Dirk Nowitzki.",
+  "r08": "Eighty-five. Right after the title.",
+  "r09": "Last one. Blake Griffin.",
+  "r10": "Eighty-five. Same as Dirk.",
+  "s00": "Guess the overall. Two K sixteen edition.",
+  "s01": "First up. Anthony Davis.",
+  "s02": "Ninety-two. On the cover at twenty-two.",
+  "s03": "Next. Jimmy Butler.",
+  "s04": "Eighty-six. The reigning Most Improved Player.",
+  "s05": "Number three. Tim Duncan.",
+  "s06": "Eighty-seven. In his last season.",
+  "s07": "Number four. Hassan Whiteside.",
+  "s08": "Eighty-one. He just wanted his two K rating up.",
+  "s09": "Last one. Karl-Anthony Towns.",
+  "s10": "Seventy-eight. The number one pick.",
+  "t00": "Guess the overall. Two K seventeen edition.",
+  "t01": "First up. Kyrie Irving.",
+  "t02": "Eighty-nine. Right after the shot.",
+  "t03": "Next. Draymond Green.",
+  "t04": "Ninety. After seventy-three wins.",
+  "t05": "Number three. Mike Conley.",
+  "t06": "Eighty-five. Just signed the biggest contract ever.",
+  "t07": "Number four. Isaiah Thomas.",
+  "t08": "Eighty-five. Then he finished fifth for M V P.",
+  "t09": "Last one. Joel Em-beed.",
+  "t10": "Seventy-seven. Before he played a game.",
+  "u00": "Guess the overall. Two K eighteen edition.",
+  "u01": "First up. Yahnis.",
+  "u02": "Ninety-one. His first time in the nineties.",
+  "u03": "Next. Nikola Yokitch.",
+  "u04": "Eighty-eight. The forty-first pick.",
+  "u05": "Number three. Lonzo Ball.",
+  "u06": "Eighty. The number two pick.",
+  "u07": "Number four. Markelle Fultz.",
+  "u08": "Eighty. Same as Lonzo.",
+  "u09": "Last one. Jayson Tatum.",
+  "u10": "Seventy-seven. He's a ninety-three now.",
+  "v00": "Guess the overall. Two K nineteen edition.",
+  "v01": "First up. DeMarcus Cousins.",
+  "v02": "Ninety. On the Warriors.",
+  "v03": "Next. Victor Oladipo.",
+  "v04": "Eighty-eight. The Most Improved Player.",
+  "v05": "Number three. Tray Young.",
+  "v06": "Seventy-seven. Two below Luka.",
+  "v07": "Number four. Ben Simmons.",
+  "v08": "Eighty-seven. Rookie of the Year.",
+  "v09": "Last one. Donovan Mitchell.",
+  "v10": "Eighty-seven. Same as Simmons.",
+  "w01": "First up. Paul George.",
+  "w02": "Ninety-three. First year with Kawhi.",
+  "w03": "Next. Kemba Walker.",
+  "w04": "Eighty-eight. First year in Boston.",
+  "w05": "Number three. Pascal See-ah-kam.",
+  "w06": "Eighty-seven. Most Improved, with a ring.",
+  "w07": "Number four. Chris Paul.",
+  "w08": "Eighty-five. Then he made All-N B A.",
+  "w09": "Last one. Jah Morant.",
+  "w10": "Seventy-nine. Two below Zion.",
+  "x00": "Guess the overall. Two K twenty-one edition.",
+  "x01": "First up. Damian Lillard.",
+  "x02": "Ninety-four. The bubble M V P.",
+  "x03": "Next. Devin Booker.",
+  "x04": "Eighty-seven. Eight and oh in the bubble.",
+  "x05": "Number three. Jamal Murray.",
+  "x06": "Eighty-five. Two fifty-point games in the bubble.",
+  "x07": "Number four. T J Warren.",
+  "x08": "Eighty-five. Fifty-three in his first bubble game.",
+  "x09": "Last one. Tyler Hero.",
+  "x10": "Seventy-eight. The Heat's bubble rookie.",
+  "y00": "Guess the overall. Two K twenty-two edition.",
+  "y01": "First up. Klay Thompson.",
+  "y02": "Eighty-seven. After two years out.",
+  "y03": "Next. LaMelo Ball.",
+  "y04": "Eighty-four. The reigning Rookie of the Year.",
+  "y05": "Number three. Cade Cunningham.",
+  "y06": "Eighty. The top rookie in the game.",
+  "y07": "Number four. Anthony Edwards.",
+  "y08": "Eighty-one. After his rookie year.",
+  "y09": "Last one. Shay Gil-jus Alexander.",
+  "y10": "Eighty-six. He's a ninety-seven now."
+ }
+}
